@@ -1,0 +1,17 @@
+{
+  "name": "generator-aronnax",
+  "version": "0.1.0",
+  "description": "Yeoman generator to create aronnax setup module.",
+  "repository": "git@github.com:aronnax/generator-aronnax.git",
+  "files": ["app"],
+  "keywords": [
+    "yeoman-generator",
+    "gaming",
+    "performance"
+  ],
+  "author": "Marco Segreto <msegreto@miceover.com>",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.19.2"
+  }
+}
